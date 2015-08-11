@@ -16,6 +16,11 @@ Download [ahoy.js](https://raw.githubusercontent.com/ankane/ahoy.js/master/ahoy.
 <script src="ahoy.js"></script>
 ```
 
+You can also install with npm
+
+```sh
+npm install ahoyjs
+```
 Or use Bower
 
 ```sh
